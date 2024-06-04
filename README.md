@@ -12,5 +12,5 @@ These solutions are provided for educational purposes and personal enjoyment. Wh
 
 ## Advent of Code
 
-Advent of Code is created by Eric Wastl and is available at adventofcode.com.
+Advent of Code is created by Eric Wastl and is available at [adventofcode.com](adventofcode.com)
 
