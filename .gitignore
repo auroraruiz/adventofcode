@@ -163,6 +163,7 @@ cython_debug/
 # My additions
 *.xlsx
 */data
+special_cases.txt
 
 # Ignore all files starting with "ex"
 ex*
