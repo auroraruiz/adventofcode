@@ -169,3 +169,4 @@ cython_debug/
 
 # Ignore particular files
 2023/day_03/day3_sol_neil.py
+2023/day_13/day13_alternative_sol.py
